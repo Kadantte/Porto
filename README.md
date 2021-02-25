@@ -1,4 +1,2 @@
 # PortfolioWithSass
-This is a tutorial i followed on FreeCodeCamp to learn Sass
-
-To see content add '/dist' to the link
+This is my own fork of my friend repo [HL](https://github.com/CheerFulDev1/PortfolioWithSass)
